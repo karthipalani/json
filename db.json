@@ -1,6 +1,11 @@
-[
-  {
-    "id":1,
-    "name":"karthi"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
